@@ -1,16 +1,21 @@
 ### Hi there 👋
+My name is Thanasis Tzimas and I'm an undergraduate Information & Electronic Systems Engineer, studying in Thessaloniki, Greece.
 
-<!--
-**thanasis-tzimas/thanasis-tzimas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Interests 
+I really like learning different languages, human and programming alike! 🗣️  
+On my free time I practice weight lifting and I hang out with my friends! 🏋🏻‍♂️🍻
 
-Here are some ideas to get you started:
+### Goals
+I want to travel the world and meet people all around the globe! ✈️🌍  
+I strive to become an academic researcher/professor/school teacher or a software developer. 👨‍🏫💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Where have you been?
+- Germany 🇩🇪
+- France 🇫🇷
+- Hungary 🇭🇺
+- Italy 🇮🇹
+- Cyprus 🇨🇾
+- Austria 🇦🇹
+- Serbia 🇷🇸
+- North Macedonia 🇲🇰
+- Bulgaria 🇧🇬
