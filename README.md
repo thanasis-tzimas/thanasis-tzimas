@@ -1,15 +1,15 @@
 ### Hi there 👋
-My name is Thanasis Tzimas and I'm an undergraduate Information & Electronic Systems Engineer, studying in Thessaloniki, Greece.
+My name is Thanasis and I'm an undergraduate Information & Electronic Systems Engineer, studying in Thessaloniki, Greece.
 
 ### Interests 
 I really like learning different languages, human and programming alike! 🗣️  
-On my free time I practice weight lifting and I hang out with my friends! 🏋🏻‍♂️🍻
+In my free time I practice weight lifting and I hang out with my friends! 🏋🏻‍♂️🍻
 
 ### Goals
-I want to travel the world and meet people all around the globe! ✈️🌍  
-I strive to become an academic researcher/professor/school teacher or a software developer. 👨‍🏫💻
+I want to travel and meet people all around the world! ✈️🌍  
+I strive to become a researcher/professor/school teacher or a software developer. 👨‍🏫💻
 
-### Where have you been?
+### Countries I visited
 - Germany 🇩🇪
 - France 🇫🇷
 - Hungary 🇭🇺
@@ -19,3 +19,10 @@ I strive to become an academic researcher/professor/school teacher or a software
 - Serbia 🇷🇸
 - North Macedonia 🇲🇰
 - Bulgaria 🇧🇬
+
+### Contact information
+Send me a ✉️  
+Discord -  https://bit.ly/3i9HLqW  
+LinkedIn - https://bit.ly/39zYi2A  
+
+Have a nice day! 🙂
